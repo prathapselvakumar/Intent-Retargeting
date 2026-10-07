@@ -146,7 +146,7 @@ ATM [4], Track2Act [5] and Im2Flow2Act [6] also learn from object or point motio
 
 ## AI assistance
 
-I used an AI coding assistant (Claude) to write and debug code and to draft this README. I recorded the data and directed the experiments, and every number above is produced by the code in this repository.
+I used an AI coding assistant (Claude) to debug code and to draft this README. I recorded the data and directed the experiments, and every number above is produced by the code in this repository.
 
 ## References
 
